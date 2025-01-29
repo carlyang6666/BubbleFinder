@@ -1,0 +1,26 @@
+{
+    "images": [
+        {
+            "image_id": "image1",
+            "path": "data/original/image/image_A1.png",
+            "output_dir": "data/cropped/image"
+        }
+        ,
+        {
+            "image_id": "image2",
+            "path": "data/original/image/image_A3.png",
+            "output_dir": "data/cropped/image"
+        },
+        {
+            "image_id": "image3",
+            "path": "data/original/annotations/image_A1.png",
+            "output_dir": "data/cropped/annotations"
+        },
+        {
+            "image_id": "image4",
+            "path": "data/original/annotations/image_A3.png",
+            "output_dir": "data/cropped/annotations"
+        }
+    
+    ]
+}

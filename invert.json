@@ -1,0 +1,14 @@
+{
+    "images": [
+        {
+            "image_id": "image1",
+            "path": "data/original/annotations/annotated_A1.png",
+            "output_dir": "data/original/annotations/image_A1.png"
+        },
+        {
+            "image_id": "image2",
+            "path": "data/original/annotations/annotated_A3.png",
+            "output_dir": "data/original/annotations/image_A3.png"
+        }
+    ]
+}
